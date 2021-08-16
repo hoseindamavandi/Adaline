@@ -1,1 +1,1 @@
-# Adaline
+# Adaline Model
