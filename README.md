@@ -1,1 +1,2 @@
-# Adaline Alogorithm
+# Adaline
+adaline alogorithm
