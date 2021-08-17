@@ -1,1 +1,1 @@
-# Adaline Model
+# Adaline Alogorithm
